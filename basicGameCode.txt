@@ -1,0 +1,9 @@
+Linux:
+python main.py -player1 LivePlayer -player2 LivePlayer
+
+python main.py -player1 LivePlayer -player2 SimplePlayer
+
+Windows:
+py main.py -player1 LivePlayer -player2 LivePlayer
+
+py main.py -player1 LivePlayer -player2 SimplePlayer
